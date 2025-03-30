@@ -6,7 +6,7 @@ export const Home: React.FC = () => {
   return (
     <Box>
       <Typography variant="h3" gutterBottom>
-        Welcome to My Portfolio hahahihu
+        Welcome to My Portfolio
       </Typography>
       <Typography variant="body1">
         I'm a developer passionate about creating amazing web experiences.
